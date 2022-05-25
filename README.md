@@ -5,9 +5,9 @@ Set up a "Hello Microverse" project
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+
 
 ## Live Demo (if available)
 
