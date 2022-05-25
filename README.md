@@ -21,9 +21,9 @@
 
 ### Install
 
--clone repository
--install the dependency
--run the application
+- clone repository
+- install the dependency
+- run the application
 
 ### Usage
 
