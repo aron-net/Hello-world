@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/aron-helu)
+- GitHub: [My github page](https://github.com/aron-helu)
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
+- LinkedIn: [My linkedIn page](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
 
 ## 🤝 Contributing
