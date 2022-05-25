@@ -1,32 +1,29 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello-world
-Set up a "Hello Microverse" project
+# Hello Microverse
+>configuration of linter with html and css files
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-
-To get a local copy up and running follow these simple example steps.
+### To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+-text editor
 
 ### Setup
 
 ### Install
+
+- clone repository
+- install the dependency
+- run the application
 
 ### Usage
 
@@ -38,11 +35,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Aaron Abraham**
 
-- GitHub: [@githubhandle](https://github.com/aron-helu)
+- GitHub: [@Aaron](https://github.com/aron-helu)
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
+- LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
 
 ## 🤝 Contributing
@@ -60,7 +57,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
